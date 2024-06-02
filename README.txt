@@ -2,7 +2,7 @@ For information on data procurement, consult report.
 
 Legend
 3 points and plane: Data augmentation strategy for research arc 1
-Data Augmentation beyong MP: Alexandera data processing
+Data Augmentation beyong MP: Alexandera dataset data processing
 Data Exploration Apr 2: Training metric visualiser, data analysis visualiser
 Data Exploration: Initial Data Exploration of Materials Project data, and "messing around", trying to make CrysTens images, retrieveing ECD data, learning about representations, etc.
 Diffusion model: Google Imagen Model 
